@@ -1,5 +1,6 @@
 # Landing MyBike
-# Technologies used: CSS, HTML, BEM
+
+Technologies used: CSS, HTML, BEM
 
 - [DEMO LINK](https://vasylzinchenko.github.io/layout_miami/) 
 The designs:
