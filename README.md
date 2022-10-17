@@ -1,6 +1,6 @@
 # Adaptive Landing Page MyBike
 
-Technologies used: CSS, HTML, BEM, Flexbox, Grid
+Technologies used:  HTML, SCSS, Flexbox, Grid, BEM
 
 Implement landing page according to [Figma design](https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE?node-id=0%3A1)
 
